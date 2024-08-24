@@ -3,7 +3,7 @@ import React from "react";
 const Card = () => {
     return (
            
-    <div className="container">
+    <div className="container mb-4">
     <div className="row row-cols-1 row-cols-md-4 g-4">
         <div className="col ml-3">
             <div className="card h-100">
